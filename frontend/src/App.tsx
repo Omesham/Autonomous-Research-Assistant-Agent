@@ -40,7 +40,13 @@ function App() {
   };
 
   return (
-    <div style={{ padding: 20, maxWidth: 800, margin: "auto" }}>
+    <div style={{ 
+      padding: 20, 
+      maxWidth: "1000px",
+      width: "100%",
+      margin: "auto",
+      overflowY: "auto"
+    }}>
       <h1>Research Agent</h1>
 
       <div style={{ marginBottom: 20 }}>
