@@ -8,9 +8,7 @@ This project explores agentic AI beyond simple prompt-response systems by implem
 
 ## Architecture
 
-<p align="center">
-  <img src="Autonomous-Research-Assistant-Agent.png" width="900"/>
-</p>
+![System Architecture](./Autonomous-Research-Assistant-Agent.png)
 
 The system follows a modular orchestration pattern:
 
