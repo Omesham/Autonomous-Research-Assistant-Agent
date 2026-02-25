@@ -1,7 +1,3 @@
-# Architecture
-
-![System Architecture](Autonomous-Research-Assistant-Agent.png)
-
 # Autonomous Research Assistant Agent
 
 An autonomous, ReAct-based AI research assistant that performs structured reasoning, controlled tool usage, and semantic memory retrieval.
@@ -13,7 +9,7 @@ This project explores agentic AI beyond simple prompt-response systems by implem
 ## Architecture
 
 <p align="center">
-  <img src="docs/architecture.png" width="900"/>
+  <img src="Autonomous-Research-Assistant-Agent.png" width="900"/>
 </p>
 
 The system follows a modular orchestration pattern:
