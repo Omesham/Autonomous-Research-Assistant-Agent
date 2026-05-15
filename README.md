@@ -38,7 +38,7 @@ The system follows a modular orchestration pattern:
 - **Backend:** FastAPI (Python)  
 - **LLM & Embeddings:** OpenAI API  
 - **Search Tool:** Tavily  
-- **Database:** PostgreSQL  
+- **Database:** SQLite  
 - **ORM:** SQLAlchemy  
 - **Server:** Uvicorn  
 
