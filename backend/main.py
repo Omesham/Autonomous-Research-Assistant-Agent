@@ -471,7 +471,7 @@ def research_topic(request: TopicRequest):
         "sources": sources
     }
 
-    # Save to DB (keep your embedding + storage logic here)
+    # Save to DB (embedding + storage logic)
 @app.get("/history")
 def get_history():
     db = SessionLocal()
